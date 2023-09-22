@@ -1,0 +1,5 @@
+body main {
+  background: #c2def3 url(./images/main.jpg) no-repeat 50%;
+  width: 100%;
+  height: 100vh;
+}
